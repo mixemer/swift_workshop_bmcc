@@ -2,7 +2,11 @@
 A tutorial to introduction to Swift programing
 
 ## Content
-1. 
+1. Download Xcode and Swift
+2. Walkthrough Xcode
+3. Create an App
+4. A coding Challenge
+5. Swift Programming
 
 ## Pre-requisite 
 ### 1-  Software:
@@ -24,5 +28,8 @@ Go to the Mac App Store to download Xcode (our integrated development environmen
 
 ## Template
 - I-Am-Poor-iOS12 [https://github.com/londonappbrewery/I-Am-Poor-ios12]
+
+## Swift
+- 
 
 ## Gooooood Luck ! 
