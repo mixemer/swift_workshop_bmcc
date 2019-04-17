@@ -30,6 +30,10 @@ Go to the Mac App Store to download Xcode (our integrated development environmen
 - I-Am-Poor-iOS12 [https://github.com/londonappbrewery/I-Am-Poor-ios12]
 
 ## Swift
-- 
+- Data Types, Constants and Variables
+- Arrays
+- Control Flow
+- Functions
+- Classes
 
 ## Gooooood Luck ! 
