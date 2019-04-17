@@ -1,8 +1,10 @@
 # swift_workshop_bmcc
 A tutorial to introduction to Swift programing
 
-## Pre-requisite 
+## Content
+1. 
 
+## Pre-requisite 
 ### 1-  Software:
 -    Installing Xcode: [https://medium.com/@LondonAppBrewery/how-to-download-and-setup-xcode-10-for-ios-development-b63bed1865c]
 Go to the Mac App Store to download Xcode (our integrated development environment or IDE). Make sure you are using the most up to date version from the App Store (not developer preview versions). Drag Xcode onto your dock from your Applications folder so that you can easily access it. If you already have Xcode installed, make sure that you have the most up to date version!
@@ -11,7 +13,7 @@ Go to the Mac App Store to download Xcode (our integrated development environmen
 ### 2- Knowledge:
 -   As long as you know how to Google!
 
-### 3- webiste resources (HTML, CSS, JS) 
+### 3- Resources
 - Apple [https://docs.swift.org/swift-book/]
 - Udemy [https://www.udemy.com/ios-12-app-development-bootcamp/]
 - Make School [https://www.makeschool.com/academy/track/intro-to-cs/getting-started-with-xcode-9/installing-xcode-nKc=]
@@ -20,8 +22,7 @@ Go to the Mac App Store to download Xcode (our integrated development environmen
 ## Projects
 - I-Am-Rich
 
-
-## Template 
+## Template
 - I-Am-Poor-iOS12 [https://github.com/londonappbrewery/I-Am-Poor-ios12]
 
 ## Gooooood Luck ! 
